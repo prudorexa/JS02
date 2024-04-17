@@ -1,2 +1,8 @@
 let greeting = 'Hello World';
-consile.log(greeting);
+console.log(greeting);
+
+const shoppingList =['books' , 'roses', 'sugar', 'milk'];
+
+console.log (shoppingList);
+
+
